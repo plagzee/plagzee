@@ -1,7 +1,7 @@
 # PlayZi
 Sup :D. A good kid 
 
-# Socials
+## Socials
 - [Discord](https://discord.gg/ZMvDatPF2C)
 
 
