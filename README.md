@@ -1,10 +1,1 @@
-# PlayZi
-Sup :D. A good kid 
-
-## Socials
-- [Discord](https://discord.gg/ZMvDatPF2C)
-
-
-<!---
-Why this default layoūt is cringe. But still GG
---->
+![helo profile not load](https://cdn.discordapp.com/attachments/760496001936261230/955352473021845534/unknown.png)
