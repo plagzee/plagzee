@@ -3,7 +3,7 @@
 <h2 align="center">Heyy there 🤟, its plagzi!</h3>
 <p align="center">I am passionate developer, working on small projects!</p>
 
-### Intrests
+### Interests
 - 🐍 Python
 - 📜 JavaScript/TypeScript
 - 📸 Object Oriented Programming
