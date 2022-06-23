@@ -12,7 +12,6 @@
 
 ### Socials
 - [Discord](https://discord.gg/s3faMXTDNP)
-- [G-Mail](voidal493@gmail.com)
 
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
