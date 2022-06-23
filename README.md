@@ -10,13 +10,6 @@
 - 🔤 Data Structures
 - 💽 Other programming languages
 
-### Socials
-- [Discord](https://discord.gg/s3faMXTDNP)
-
-
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
-
-
 # Skills
 ## ✅ I have expertise in the things listed bellow
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
@@ -33,3 +26,12 @@
 # 🌟 Featured Repos
 Here is a project I still work on :). A cool program I made, I am experienced with making discord bots, web apps and Desktop apps
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PlayZBhai&repo=encrypto)](https://github.com/anuraghazra/github-readme-stats)
+
+### Socials
+- [Discord](https://discord.gg/s3faMXTDNP)
+
+
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+
+
+
