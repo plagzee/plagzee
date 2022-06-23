@@ -28,4 +28,4 @@
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 
 # Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PlayZBhai)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=dracula)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PlayZBhai&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
