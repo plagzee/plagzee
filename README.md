@@ -26,6 +26,8 @@
 These stats only show upon my public repos and not the private ones, I've worked with JS and other frameworks too
 
 # 🌟 Featured Repos
+
+
 Here is a project I still work on :). A cool program I made, I am experienced with making discord bots, web apps and Desktop apps
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PlayZBhai&repo=encrypto)](https://github.com/anuraghazra/github-readme-stats)
 
