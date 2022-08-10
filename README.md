@@ -37,7 +37,7 @@ Here is a project I still work on :). A cool program I made, I am experienced wi
 - [Discord](https://discord.gg/s3faMXTDNP)
 
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![](https://komarev.com/ghpvc/?username=plagzee&color=green)
 
 
 
