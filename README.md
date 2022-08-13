@@ -22,9 +22,6 @@
 # Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=plagzee&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plagzee&layout=compact&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-### A note on the stats
-These stats only show upon my public repos and not the private ones, I've worked with JS and other frameworks too
 
 # 🌟 Featured Repos
 
