@@ -17,7 +17,7 @@
 # 🌟 Featured Repos
 - [Encrypto](https://github.com/plagzee/encrypto)
 - [Voidal](https://github.com/plagzee/Final-Voidal)
-- [Grievance Portal for my girlfriend](https://github.com/plagzee/jyoti-grief-portal)
+- [Grievance Portal for my girlfriend](https://github.com/plagzee/jyoti-grievance-portal)
 
 
 
