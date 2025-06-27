@@ -21,6 +21,7 @@
 - [Honey Dectector](https://github.com/plagzee/honey-detector)
 - [Encrypto](https://github.com/plagzee/encrypto)
 - [Voidal](https://github.com/plagzee/Final-Voidal)
+- [**On Going Project** - MaltracAI](https://github.com/plagzee/maltracai)
 - [Grievance Portal for my girlfriend](https://github.com/plagzee/jyoti-grievance-portal)
 
 
