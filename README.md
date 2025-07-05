@@ -23,6 +23,7 @@
 - [Voidal](https://github.com/plagzee/Final-Voidal)
 - [**On Going Project** - MaltracAI](https://github.com/plagzee/maltracai)
 - [Grievance Portal for my girlfriend](https://github.com/plagzee/jyoti-grievance-portal)
+- [Search Bob](https://github.com/plagzee/search-bob)
 
 
 ![](https://komarev.com/ghpvc/?username=plagzee&color=blue)
