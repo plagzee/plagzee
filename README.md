@@ -1,3 +1,5 @@
+<img src="https://github.com/plagzee/plagzee/blob/main/linked%20in%20banner.png"></img>
+
 <h2 align="center">Heyy I am Ahiran,</h3>
 <p align="center">I am a high school pass-out who is proficient in web-development and Machine Learning.</p>
 
